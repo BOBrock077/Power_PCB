@@ -1,0 +1,7 @@
+.history/
+history/
+*-backups/
+*.kicad_prl
+*.lck
+fp-info-cache
+.claude/
